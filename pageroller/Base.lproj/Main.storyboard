@@ -38,11 +38,14 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="q9d-LJ-PNT" secondAttribute="bottom" id="4xR-kO-jSC"/>
                             <constraint firstItem="M8M-F4-fkG" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="7WX-Uk-RV9"/>
                             <constraint firstItem="M8M-F4-fkG" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="FJE-bk-J3c"/>
                             <constraint firstAttribute="trailing" secondItem="M8M-F4-fkG" secondAttribute="trailing" id="N7f-wS-66a"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="q9d-LJ-PNT" secondAttribute="bottom" id="Oca-Ce-OuM"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="M8M-F4-fkG" secondAttribute="bottom" id="UkV-bv-Ltl"/>
+                            <constraint firstItem="q9d-LJ-PNT" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="fhb-hg-zyh"/>
+                            <constraint firstAttribute="trailing" secondItem="q9d-LJ-PNT" secondAttribute="trailing" id="lww-ad-dQ5"/>
                             <constraint firstAttribute="trailing" secondItem="q9d-LJ-PNT" secondAttribute="trailing" id="phW-MR-vsa"/>
                             <constraint firstItem="q9d-LJ-PNT" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="tLQ-vB-hYg"/>
                         </constraints>
